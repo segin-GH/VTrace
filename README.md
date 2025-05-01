@@ -6,7 +6,7 @@ VTrace is a lightweight Git hook–based tool that automatically updates a versi
 
 ## Features
 
-- Auto-updates a `version.txt` (or any file you specify)
+- Auto-updates a `version.txt` (or any file that you want)
 - Git hook integration (pre-commit, post-commit, or custom)
 - Tracks commit SHA, tag, timestamp, and branch
 - Minimal and dependency-free
